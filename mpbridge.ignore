@@ -1,0 +1,10 @@
+.git/
+.ruff_cache/
+.idea/
+poetry.lock
+pyproject.toml
+.gitignore
+README.md
+config.example.json
+mpbridge.ignore
+public/demo.mp4

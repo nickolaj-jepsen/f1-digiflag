@@ -1,0 +1,8 @@
+{
+    "wifi": {
+        "ssid": "your_ssid",
+        "password": "your_password",
+        "country": "your_country_code (e.g. US)"
+    },
+    "brightness": 50
+}
