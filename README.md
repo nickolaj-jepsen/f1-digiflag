@@ -4,6 +4,9 @@ Displays flags from the F1 23 game on [Pimoroni Cosmic Unicorn](https://shop.pim
 
 > ⚠️ **This is incomplete and has major issues!** There are currently two different modes with their own issues, read about them in the [Control](#control) section.
 
+https://github.com/nickolaj-jepsen/f1-digiflag/assets/1039554/c287b507-f6a2-4571-bbb9-1f5feef23fe8
+
+
 ## Usage
 
 ### Configure
